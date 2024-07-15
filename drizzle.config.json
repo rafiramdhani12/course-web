@@ -2,6 +2,6 @@
   "schema": "./utils/schema.js",
   "dialect": "postgresql",
   "dbCredentials": {
-    "url": "postgresql://magicSearch_owner:a5dYpPijAhG1@ep-holy-poetry-a1b06c65.ap-southeast-1.aws.neon.tech/testAja?sslmode=require"
+    "url": "use u own db"
   }
 }
